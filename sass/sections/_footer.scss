@@ -1,0 +1,23 @@
+.address__location{
+    line-height: 1.71;
+    color: $tertiary-txt-color;
+}
+
+.footer{
+    padding-left: 120px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+}
+
+.footer--background{
+    background-color: #2F303A;
+}
+
+.footer--socials{
+    margin-left: 70px;
+}
+
+.socialMedia__icon--footer{
+    fill: white;
+}

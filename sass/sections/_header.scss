@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    padding-left: 125px;
+}
+
+.nav{
+    display: flex;
+    margin-left: 87px;
+}
+
+.nav__item:not(:last-child){
+    margin-right: 60px;
+}
+
+.contacts{
+    margin-left: 320px;
+}
+
+.contacts__email{
+    margin-right: 47px;
+}
